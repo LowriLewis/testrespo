@@ -1,4 +1,2 @@
 # testrespo
-Practicing using Git with IBM
-
-This is an edit
+Practicing using Git with IBM Data Science Course
